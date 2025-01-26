@@ -1,0 +1,332 @@
+2025-01-14 12:32:42,382 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:32:42,383 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-14 12:33:43,112 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:33:43,112 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-14 12:34:43,825 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:34:43,828 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-14 12:35:44,861 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:35:44,861 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-14 12:36:45,595 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:36:45,596 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-14 12:37:46,673 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:37:46,673 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-14 12:38:47,922 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:38:47,922 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-14 12:39:49,099 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:39:49,099 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-14 12:40:50,698 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:40:50,699 - scheduler.course_scheduler - INFO - Loaded and running model for course 3
+2025-01-14 12:41:52,268 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:41:52,268 - scheduler.course_scheduler - INFO - Loaded and running model for course 3
+2025-01-14 12:42:53,930 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:42:53,930 - scheduler.course_scheduler - INFO - Loaded and running model for course 3
+2025-01-14 12:43:55,144 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:43:55,146 - scheduler.course_scheduler - INFO - Loaded and running model for course 3
+2025-01-14 12:44:56,319 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:44:56,320 - scheduler.course_scheduler - INFO - Loaded and running model for course 3
+2025-01-14 12:45:57,096 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:45:57,096 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-14 12:46:57,952 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:46:57,953 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-14 12:47:59,051 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:47:59,053 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-14 12:48:59,776 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:48:59,777 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-14 12:50:00,481 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:50:00,482 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-14 12:51:01,205 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:51:01,206 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-14 12:52:02,488 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:52:02,488 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-14 12:53:03,697 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:53:03,697 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-14 12:54:04,471 - scheduler.course_scheduler - ERROR - Error running face recognition: 'NoneType' object has no attribute 'shape'
+2025-01-14 12:54:04,471 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-14 14:50:26,560 - scheduler.course_scheduler - INFO - Connected to IP camera streaming
+2025-01-14 14:50:27,262 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:815: error: (-215:Assertion failed) buf.checkVector(1, CV_8U) > 0 in function 'cv::imdecode_'
+
+2025-01-14 14:50:27,263 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-14 14:52:29,095 - scheduler.course_scheduler - ERROR - Error running face recognition: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-01-14 14:52:29,095 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-14 14:54:04,230 - scheduler.course_scheduler - INFO - Connected to IP camera streaming
+2025-01-14 14:54:04,909 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:815: error: (-215:Assertion failed) buf.checkVector(1, CV_8U) > 0 in function 'cv::imdecode_'
+
+2025-01-14 14:54:04,909 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-14 14:55:07,967 - scheduler.course_scheduler - ERROR - Error running face recognition: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-01-14 14:55:07,969 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-14 14:57:02,837 - scheduler.course_scheduler - INFO - Connected to IP camera streaming
+2025-01-14 14:57:03,516 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:815: error: (-215:Assertion failed) buf.checkVector(1, CV_8U) > 0 in function 'cv::imdecode_'
+
+2025-01-14 14:57:03,516 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-14 15:22:59,962 - scheduler.course_scheduler - ERROR - Failed to grab frame
+2025-01-14 15:25:06,312 - scheduler.course_scheduler - ERROR - Failed to grab frame
+2025-01-14 15:25:06,321 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-14 16:06:08,392 - scheduler.course_scheduler - ERROR - Error running face recognition: 'face_recognition_model' object has no attribute 'preprocess'
+2025-01-14 16:06:08,393 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-14 16:06:24,652 - scheduler.course_scheduler - ERROR - Error running face recognition: 'face_recognition_model' object has no attribute 'preprocess'
+2025-01-14 16:06:24,653 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-14 16:09:13,000 - scheduler.course_scheduler - INFO - Face recognition completed: [[[ 69  68  91]
+  [ 64  71  94]
+  [ 61  77  98]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[ 64  74  91]
+  [ 62  75  94]
+  [ 61  77  98]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[ 60  74  91]
+  [ 60  74  93]
+  [ 60  73  95]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[ 22  48  94]
+  [ 20  43  89]
+  [ 20  39  85]
+  ...
+  [ 91 105 113]
+  [ 91 108 115]
+  [ 94 110 118]]
+
+ [[ 25  49  95]
+  [ 21  44  92]
+  [ 14  36  87]
+  ...
+  [ 88 106 113]
+  [ 90 109 117]
+  [ 89 108 115]]
+
+ [[ 25  48  98]
+  [ 22  45  93]
+  [ 15  39  84]
+  ...
+  [ 87 106 113]
+  [ 90 109 117]
+  [ 89 108 115]]]
+2025-01-14 16:09:13,001 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-14 16:16:21,555 - scheduler.course_scheduler - INFO - Face recognition completed: [[[102 105 123]
+  [101 100 121]
+  [103  98 122]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[102 102 120]
+  [100  98 117]
+  [101  97 116]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[ 99 100 118]
+  [101 100 118]
+  [101  97 116]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[ 45  60 105]
+  [ 48  63 107]
+  [ 50  65 109]
+  ...
+  [120 124 126]
+  [119 123 125]
+  [116 120 122]]
+
+ [[ 42  56 103]
+  [ 44  59 105]
+  [ 52  67 113]
+  ...
+  [125 129 131]
+  [121 126 127]
+  [114 119 121]]
+
+ [[ 39  54 100]
+  [ 46  61 107]
+  [ 57  71 118]
+  ...
+  [124 128 130]
+  [124 128 130]
+  [117 121 123]]]
+2025-01-14 16:16:21,555 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-14 16:17:51,194 - scheduler.course_scheduler - INFO - Face recognition completed: [[[ 98  97 122]
+  [102 101 123]
+  [103 103 121]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[ 98  97 120]
+  [ 98  98 118]
+  [ 97  98 114]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[ 94  95 118]
+  [ 95  97 114]
+  [ 97  99 110]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[ 52  57  97]
+  [ 55  61 104]
+  [ 47  55 100]
+  ...
+  [119 123 127]
+  [114 118 122]
+  [114 118 122]]
+
+ [[ 51  55 100]
+  [ 56  59 105]
+  [ 50  53  99]
+  ...
+  [110 116 119]
+  [111 117 121]
+  [111 117 121]]
+
+ [[ 50  53  99]
+  [ 53  58 103]
+  [ 47  55 100]
+  ...
+  [111 117 120]
+  [111 117 121]
+  [112 118 122]]]
+2025-01-14 16:17:51,194 - scheduler.course_scheduler - INFO - Loaded and running model for course 3
+2025-01-14 16:20:00,002 - scheduler.course_scheduler - INFO - Reached end time. Closing camera.
+2025-01-14 16:20:00,271 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-14 16:20:00,271 - scheduler.course_scheduler - INFO - Loaded and running model for course 3
+2025-01-14 16:25:00,026 - scheduler.course_scheduler - INFO - Reached end time. Closing camera.
+2025-01-14 16:25:00,320 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-14 16:25:00,321 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-14 16:25:22,785 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-14 16:25:22,785 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-14 16:25:37,927 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-14 16:25:37,928 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-15 00:11:00,029 - scheduler.course_scheduler - ERROR - Error running face recognition: name 'np' is not defined
+2025-01-15 00:11:00,029 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-15 00:11:12,993 - scheduler.course_scheduler - ERROR - Error running face recognition: name 'np' is not defined
+2025-01-15 00:11:12,993 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-15 00:12:12,742 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2025-01-15 00:12:13,010 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-15 00:12:25,656 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2025-01-15 00:12:25,922 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-15 00:13:01,906 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2025-01-15 00:13:02,172 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-15 00:13:14,640 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2025-01-15 00:13:14,910 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-15 00:13:26,882 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2025-01-15 00:13:27,146 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-15 00:30:00,007 - scheduler.course_scheduler - INFO - Reached end time. Closing camera.
+2025-01-15 00:30:00,288 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-15 00:30:00,289 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-15 00:31:11,970 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-15 00:31:11,970 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-15 22:25:10,627 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4152: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-01-15 22:25:10,883 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-25 02:22:42,703 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:22:42,955 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-25 02:22:54,388 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:22:54,644 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-25 02:23:06,055 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:23:06,327 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-25 02:23:54,919 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+2025-01-25 02:23:55,189 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-25 02:24:07,459 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+2025-01-25 02:24:07,717 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-25 02:24:52,582 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+2025-01-25 02:24:52,839 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-25 02:25:05,104 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+
+2025-01-25 02:25:05,363 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-25 02:27:06,435 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-25 02:27:06,437 - scheduler.course_scheduler - INFO - Loaded and running model for course 2
+2025-01-25 02:35:28,126 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:35:28,403 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:35:40,354 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:35:40,620 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:35:52,593 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:35:52,863 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:36:04,940 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:36:05,207 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:36:17,135 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:36:17,403 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:36:29,338 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:36:29,607 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:36:41,567 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:36:41,825 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:36:53,793 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:36:54,056 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:37:06,029 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:37:06,309 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:37:27,520 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:37:27,783 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:37:59,934 - scheduler.course_scheduler - ERROR - Error running face recognition: attempt to get argmax of an empty sequence
+2025-01-25 02:38:00,209 - scheduler.course_scheduler - INFO - Loaded and running model for course 5
+2025-01-25 02:40:38,836 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-01-25 02:40:39,118 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-25 02:40:59,913 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-01-25 02:41:00,193 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-25 02:41:28,578 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-01-25 02:41:28,858 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-25 03:15:00,154 - scheduler.course_scheduler - INFO - Reached end time. Closing camera.
+2025-01-25 03:15:00,426 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-25 03:15:00,426 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-27 00:53:18,569 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-27 00:53:18,570 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-27 00:56:05,137 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-27 00:56:05,142 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
