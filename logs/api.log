@@ -69,3 +69,239 @@
 2025-01-27 00:51:42,400 - api.client - INFO - Successfully obtained new access token
 2025-01-27 00:52:07,525 - api.client - INFO - Successfully obtained new access token
 2025-01-27 00:54:49,002 - api.client - INFO - Successfully obtained new access token
+2025-01-27 03:24:27,235 - api.client - INFO - Successfully obtained new access token
+2025-01-27 03:24:27,254 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/Schedule/?device_id=1
+2025-01-27 03:24:28,270 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/Schedule/?device_id=1
+2025-01-27 03:24:30,289 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/Schedule/?device_id=1
+2025-01-27 12:21:31,051 - api.client - INFO - Successfully obtained new access token
+2025-01-27 12:26:32,861 - api.client - INFO - Successfully obtained new access token
+2025-01-27 12:31:34,749 - api.client - INFO - Successfully obtained new access token
+2025-01-27 12:36:36,615 - api.client - INFO - Successfully obtained new access token
+2025-01-27 12:41:38,406 - api.client - INFO - Successfully obtained new access token
+2025-01-27 12:46:40,320 - api.client - INFO - Successfully obtained new access token
+2025-01-27 12:51:15,832 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A82FE1100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 12:51:20,891 - api.client - WARNING - Request attempt 2 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305A000>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 12:51:26,991 - api.client - ERROR - API request failed after 3 attempts: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A83059880>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 12:51:41,110 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305A9C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 12:51:46,183 - api.client - WARNING - Request attempt 2 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A83016B40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 12:51:50,200 - api.client - ERROR - API request failed after 3 attempts: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-01-27 12:52:00,465 - api.client - INFO - Successfully obtained new access token
+2025-01-27 12:57:02,213 - api.client - INFO - Successfully obtained new access token
+2025-01-27 13:00:37,394 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305B770>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:00:42,494 - api.client - WARNING - Request attempt 2 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305B200>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:00:48,569 - api.client - ERROR - API request failed after 3 attempts: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305B9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:01:02,633 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A82F9ABD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:01:07,732 - api.client - WARNING - Request attempt 2 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A82FF1D90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:01:13,796 - api.client - ERROR - API request failed after 3 attempts: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305AB10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:01:27,878 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305B740>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:01:32,916 - api.client - WARNING - Request attempt 2 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A830598B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:01:38,974 - api.client - ERROR - API request failed after 3 attempts: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305A480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:01:53,051 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A830882C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:01:58,116 - api.client - WARNING - Request attempt 2 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A82FD0AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:02:04,194 - api.client - ERROR - API request failed after 3 attempts: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A83059C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:02:18,319 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305B920>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:02:23,421 - api.client - WARNING - Request attempt 2 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A83059BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:02:29,518 - api.client - ERROR - API request failed after 3 attempts: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305BE60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:02:43,594 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A830881D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:02:48,673 - api.client - WARNING - Request attempt 2 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A82FE2300>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:02:54,785 - api.client - ERROR - API request failed after 3 attempts: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305B9B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:03:08,898 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A8305B740>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:03:14,008 - api.client - WARNING - Request attempt 2 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A830598B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:03:20,097 - api.client - ERROR - API request failed after 3 attempts: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A83059820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:03:34,222 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024A83088B60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-01-27 13:03:38,280 - api.client - WARNING - Request attempt 2 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-01-27 13:03:40,292 - api.client - ERROR - API request failed after 3 attempts: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-01-27 13:03:50,459 - api.client - INFO - Successfully obtained new access token
+2025-01-27 13:09:19,347 - api.client - INFO - Successfully obtained new access token
+2025-01-27 13:13:43,036 - api.client - INFO - Successfully obtained new access token
+2025-01-28 12:01:19,490 - api.client - INFO - Successfully obtained new access token
+2025-01-28 12:03:48,300 - api.client - INFO - Successfully obtained new access token
+2025-01-28 12:03:49,327 - api.client - ERROR - Failed to download model: HTTPConnectionPool(host='localhost', port=8001): Read timed out. (read timeout=1)
+2025-01-28 12:03:50,339 - api.client - ERROR - Failed to download model: HTTPConnectionPool(host='localhost', port=8001): Read timed out. (read timeout=1)
+2025-01-28 12:05:12,559 - api.client - INFO - Successfully obtained new access token
+2025-01-28 12:05:13,596 - api.client - ERROR - Failed to download model: HTTPConnectionPool(host='localhost', port=8001): Read timed out. (read timeout=1)
+2025-01-28 12:05:14,596 - api.client - ERROR - Failed to download model: HTTPConnectionPool(host='localhost', port=8001): Read timed out. (read timeout=1)
+2025-01-28 12:08:40,367 - api.client - INFO - Successfully obtained new access token
+2025-01-28 12:13:41,727 - api.client - INFO - Successfully obtained new access token
+2025-01-28 12:18:43,392 - api.client - INFO - Successfully obtained new access token
+2025-01-28 23:11:20,702 - api.client - INFO - Successfully obtained new access token
+2025-01-28 23:12:20,473 - api.client - INFO - Successfully obtained new access token
+2025-02-03 02:07:32,979 - api.client - INFO - Successfully obtained new access token
+2025-02-03 02:07:47,828 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download/2
+2025-02-03 02:07:50,415 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download_label_map/2
+2025-02-03 02:07:52,892 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download/2
+2025-02-03 02:07:55,368 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download_label_map/2
+2025-02-03 02:07:57,973 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download/3
+2025-02-03 02:08:00,554 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download_label_map/3
+2025-02-03 02:08:03,139 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download/2
+2025-02-03 02:08:05,586 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download_label_map/2
+2025-02-03 03:09:25,231 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:14:27,805 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:19:28,873 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:24:29,907 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:25:53,607 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:31:00,086 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:31:10,478 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:33:02,245 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:34:25,989 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:36:49,643 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:39:33,099 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:41:21,890 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:49:18,445 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:51:29,894 - api.client - INFO - Successfully obtained new access token
+2025-02-03 03:53:04,220 - api.client - INFO - Successfully obtained new access token
+2025-02-03 05:06:28,425 - api.client - INFO - Successfully obtained new access token
+2025-02-03 05:07:53,928 - api.client - INFO - Successfully obtained new access token
+2025-02-03 05:11:01,146 - api.client - INFO - Successfully obtained new access token
+2025-02-03 05:18:24,028 - api.client - INFO - Successfully obtained new access token
+2025-02-03 05:23:18,880 - api.client - INFO - Successfully obtained new access token
+2025-02-03 19:31:08,483 - api.client - INFO - Successfully obtained new access token
+2025-02-03 19:33:15,475 - api.client - INFO - Successfully obtained new access token
+2025-02-03 19:55:08,658 - api.client - INFO - Successfully obtained new access token
+2025-02-03 20:44:00,910 - api.client - INFO - Successfully obtained new access token
+2025-02-03 20:48:46,084 - api.client - INFO - Successfully obtained new access token
+2025-02-03 23:33:28,224 - api.client - INFO - Successfully obtained new access token
+2025-02-03 23:38:28,536 - api.client - INFO - Successfully obtained new access token
+2025-02-03 23:43:29,635 - api.client - INFO - Successfully obtained new access token
+2025-02-04 01:09:14,721 - api.client - INFO - Successfully obtained new access token
+2025-02-04 01:09:20,921 - api.client - ERROR - Failed to download model: HTTPConnectionPool(host='localhost', port=8001): Max retries exceeded with url: /download/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000214936C0C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-04 01:09:24,980 - api.client - ERROR - Failed to download label_map: HTTPConnectionPool(host='localhost', port=8001): Max retries exceeded with url: /download_label_map/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000214936C1D60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-04 01:09:29,041 - api.client - ERROR - Failed to download model: HTTPConnectionPool(host='localhost', port=8001): Max retries exceeded with url: /download/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000214936C2450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-04 01:09:33,103 - api.client - ERROR - Failed to download label_map: HTTPConnectionPool(host='localhost', port=8001): Max retries exceeded with url: /download_label_map/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000214936C2120>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-04 01:10:43,727 - api.client - INFO - Successfully obtained new access token
+2025-02-04 01:11:47,144 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:11:48,161 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:11:50,192 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:11:50,457 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:11:51,484 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:11:53,501 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:11:53,779 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:11:54,798 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:20:51,836 - api.client - INFO - Successfully obtained new access token
+2025-02-04 01:21:39,130 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:40,157 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:42,193 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:42,614 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:43,635 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:45,652 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:45,932 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:46,958 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:48,975 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:49,878 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:50,910 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:52,941 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:53,307 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:54,324 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:56,360 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:56,736 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:21:57,754 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 01:27:15,519 - api.client - INFO - Successfully obtained new access token
+2025-02-04 01:28:03,037 - api.client - ERROR - Invalid date or time format: unconverted data remains: .850076
+2025-02-04 01:28:03,296 - api.client - ERROR - Invalid date or time format: unconverted data remains: .171936
+2025-02-04 01:28:03,538 - api.client - ERROR - Invalid date or time format: unconverted data remains: .408154
+2025-02-04 01:28:03,760 - api.client - ERROR - Invalid date or time format: unconverted data remains: .649068
+2025-02-04 01:28:04,030 - api.client - ERROR - Invalid date or time format: unconverted data remains: .895651
+2025-02-04 01:28:04,265 - api.client - ERROR - Invalid date or time format: unconverted data remains: .162741
+2025-02-04 01:28:04,525 - api.client - ERROR - Invalid date or time format: unconverted data remains: .391498
+2025-02-04 01:28:04,754 - api.client - ERROR - Invalid date or time format: unconverted data remains: .650539
+2025-02-04 01:28:23,328 - api.client - ERROR - Invalid date or time format: unconverted data remains: .194658
+2025-02-04 01:28:23,615 - api.client - ERROR - Invalid date or time format: unconverted data remains: .491951
+2025-02-04 01:28:23,896 - api.client - ERROR - Invalid date or time format: unconverted data remains: .776854
+2025-02-04 01:28:24,164 - api.client - ERROR - Invalid date or time format: unconverted data remains: .057384
+2025-02-04 01:28:24,462 - api.client - ERROR - Invalid date or time format: unconverted data remains: .333453
+2025-02-04 01:28:24,735 - api.client - ERROR - Invalid date or time format: unconverted data remains: .630295
+2025-02-04 01:28:25,017 - api.client - ERROR - Invalid date or time format: unconverted data remains: .907598
+2025-02-04 01:28:25,379 - api.client - ERROR - Invalid date or time format: unconverted data remains: .243607
+2025-02-04 01:28:25,712 - api.client - ERROR - Invalid date or time format: unconverted data remains: .576943
+2025-02-04 01:28:27,661 - api.client - ERROR - Invalid date or time format: unconverted data remains: .485888
+2025-02-04 01:28:27,991 - api.client - ERROR - Invalid date or time format: unconverted data remains: .847988
+2025-02-04 01:28:28,222 - api.client - ERROR - Invalid date or time format: unconverted data remains: .102079
+2025-02-04 01:28:28,433 - api.client - ERROR - Invalid date or time format: unconverted data remains: .324269
+2025-02-04 01:28:28,673 - api.client - ERROR - Invalid date or time format: unconverted data remains: .548532
+2025-02-04 01:28:28,880 - api.client - ERROR - Invalid date or time format: unconverted data remains: .775879
+2025-02-04 01:28:29,113 - api.client - ERROR - Invalid date or time format: unconverted data remains: .991859
+2025-02-04 01:28:29,340 - api.client - ERROR - Invalid date or time format: unconverted data remains: .235410
+2025-02-04 01:28:29,586 - api.client - ERROR - Invalid date or time format: unconverted data remains: .465135
+2025-02-04 01:28:29,827 - api.client - ERROR - Invalid date or time format: unconverted data remains: .702626
+2025-02-04 01:28:30,064 - api.client - ERROR - Invalid date or time format: unconverted data remains: .942216
+2025-02-04 01:28:30,306 - api.client - ERROR - Invalid date or time format: unconverted data remains: .188510
+2025-02-04 01:28:30,536 - api.client - ERROR - Invalid date or time format: unconverted data remains: .424713
+2025-02-04 01:28:30,747 - api.client - ERROR - Invalid date or time format: unconverted data remains: .643762
+2025-02-04 01:28:30,996 - api.client - ERROR - Invalid date or time format: unconverted data remains: .861725
+2025-02-04 01:28:31,225 - api.client - ERROR - Invalid date or time format: unconverted data remains: .117262
+2025-02-04 01:28:31,466 - api.client - ERROR - Invalid date or time format: unconverted data remains: .342443
+2025-02-04 01:28:31,719 - api.client - ERROR - Invalid date or time format: unconverted data remains: .573804
+2025-02-04 01:28:31,948 - api.client - ERROR - Invalid date or time format: unconverted data remains: .840550
+2025-02-04 01:28:32,155 - api.client - ERROR - Invalid date or time format: unconverted data remains: .053729
+2025-02-04 01:28:32,392 - api.client - ERROR - Invalid date or time format: unconverted data remains: .271074
+2025-02-04 01:28:32,613 - api.client - ERROR - Invalid date or time format: unconverted data remains: .502989
+2025-02-04 01:28:32,852 - api.client - ERROR - Invalid date or time format: unconverted data remains: .729170
+2025-02-04 01:28:33,074 - api.client - ERROR - Invalid date or time format: unconverted data remains: .970887
+2025-02-04 01:28:33,331 - api.client - ERROR - Invalid date or time format: unconverted data remains: .198973
+2025-02-04 01:28:33,559 - api.client - ERROR - Invalid date or time format: unconverted data remains: .443304
+2025-02-04 01:28:33,809 - api.client - ERROR - Invalid date or time format: unconverted data remains: .688210
+2025-02-04 01:28:34,053 - api.client - ERROR - Invalid date or time format: unconverted data remains: .924438
+2025-02-04 01:28:34,296 - api.client - ERROR - Invalid date or time format: unconverted data remains: .180775
+2025-02-04 01:28:34,544 - api.client - ERROR - Invalid date or time format: unconverted data remains: .421640
+2025-02-04 01:28:34,784 - api.client - ERROR - Invalid date or time format: unconverted data remains: .672282
+2025-02-04 01:28:35,038 - api.client - ERROR - Invalid date or time format: unconverted data remains: .903838
+2025-02-04 01:28:35,288 - api.client - ERROR - Invalid date or time format: unconverted data remains: .161750
+2025-02-04 01:28:37,435 - api.client - ERROR - Invalid date or time format: unconverted data remains: .298816
+2025-02-04 01:28:37,839 - api.client - ERROR - Invalid date or time format: unconverted data remains: .707634
+2025-02-04 01:28:39,107 - api.client - ERROR - Invalid date or time format: unconverted data remains: .957344
+2025-02-04 01:28:39,435 - api.client - ERROR - Invalid date or time format: unconverted data remains: .325314
+2025-02-04 01:28:39,765 - api.client - ERROR - Invalid date or time format: unconverted data remains: .662664
+2025-02-04 01:28:51,850 - api.client - ERROR - Invalid date or time format: unconverted data remains: .718891
+2025-02-04 01:28:52,234 - api.client - ERROR - Invalid date or time format: unconverted data remains: .121627
+2025-02-04 01:28:52,610 - api.client - ERROR - Invalid date or time format: unconverted data remains: .467438
+2025-02-04 01:28:52,982 - api.client - ERROR - Invalid date or time format: unconverted data remains: .856337
+2025-02-04 01:28:53,326 - api.client - ERROR - Invalid date or time format: unconverted data remains: .195425
+2025-02-04 01:30:21,821 - api.client - INFO - Successfully obtained new access token
+2025-02-04 01:31:03,183 - api.client - ERROR - Invalid date or time format: unconverted data remains: .023414
+2025-02-04 01:31:03,422 - api.client - ERROR - Invalid date or time format: unconverted data remains: .313946
+2025-02-04 01:31:03,667 - api.client - ERROR - Invalid date or time format: unconverted data remains: .547044
+2025-02-04 01:31:03,887 - api.client - ERROR - Invalid date or time format: unconverted data remains: .779405
+2025-02-04 01:31:04,108 - api.client - ERROR - Invalid date or time format: unconverted data remains: .998211
+2025-02-04 01:31:04,321 - api.client - ERROR - Invalid date or time format: unconverted data remains: .219315
+2025-02-04 01:31:04,559 - api.client - ERROR - Invalid date or time format: unconverted data remains: .445225
+2025-02-04 01:31:04,826 - api.client - ERROR - Invalid date or time format: unconverted data remains: .678715
+2025-02-04 01:31:05,061 - api.client - ERROR - Invalid date or time format: unconverted data remains: .950722
+2025-02-04 01:31:05,283 - api.client - ERROR - Invalid date or time format: unconverted data remains: .186110
+2025-02-04 01:31:05,560 - api.client - ERROR - Invalid date or time format: unconverted data remains: .407589
+2025-02-04 01:31:05,830 - api.client - ERROR - Invalid date or time format: unconverted data remains: .691762
+2025-02-04 01:31:06,056 - api.client - ERROR - Invalid date or time format: unconverted data remains: .954913
+2025-02-04 01:31:06,302 - api.client - ERROR - Invalid date or time format: unconverted data remains: .183562
+2025-02-04 01:31:06,569 - api.client - ERROR - Invalid date or time format: unconverted data remains: .443938
+2025-02-04 01:31:06,840 - api.client - ERROR - Invalid date or time format: unconverted data remains: .696805
+2025-02-04 01:31:07,088 - api.client - ERROR - Invalid date or time format: unconverted data remains: .961247
+2025-02-04 01:31:07,303 - api.client - ERROR - Invalid date or time format: unconverted data remains: .202590
+2025-02-04 01:31:07,559 - api.client - ERROR - Invalid date or time format: unconverted data remains: .435472
+2025-02-04 01:31:07,932 - api.client - ERROR - Invalid date or time format: unconverted data remains: .802393
+2025-02-04 01:31:08,254 - api.client - ERROR - Invalid date or time format: unconverted data remains: .150196
+2025-02-04 01:31:08,473 - api.client - ERROR - Invalid date or time format: unconverted data remains: .370786
+2025-02-04 01:31:08,718 - api.client - ERROR - Invalid date or time format: unconverted data remains: .583678
+2025-02-04 01:31:08,943 - api.client - ERROR - Invalid date or time format: unconverted data remains: .836386
+2025-02-04 01:31:09,166 - api.client - ERROR - Invalid date or time format: unconverted data remains: .060276
+2025-02-04 01:31:09,383 - api.client - ERROR - Invalid date or time format: unconverted data remains: .277777
+2025-02-04 01:31:09,631 - api.client - ERROR - Invalid date or time format: unconverted data remains: .501456
+2025-02-04 01:31:09,879 - api.client - ERROR - Invalid date or time format: unconverted data remains: .746437
+2025-02-04 01:31:10,102 - api.client - ERROR - Invalid date or time format: unconverted data remains: .993955
+2025-02-04 01:31:10,373 - api.client - ERROR - Invalid date or time format: unconverted data remains: .217872
+2025-02-04 01:31:10,598 - api.client - ERROR - Invalid date or time format: unconverted data remains: .498317
+2025-02-04 01:31:10,834 - api.client - ERROR - Invalid date or time format: unconverted data remains: .711791
+2025-02-04 01:31:11,065 - api.client - ERROR - Invalid date or time format: unconverted data remains: .941601
+2025-02-04 01:31:11,302 - api.client - ERROR - Invalid date or time format: unconverted data remains: .170864
+2025-02-04 01:36:13,292 - api.client - INFO - Successfully obtained new access token
+2025-02-04 01:37:26,933 - api.client - ERROR - Invalid date or time format: unconverted data remains: .797506
+2025-02-04 01:37:27,154 - api.client - ERROR - Invalid date or time format: unconverted data remains: .043991
+2025-02-04 01:37:27,375 - api.client - ERROR - Invalid date or time format: unconverted data remains: .258206
+2025-02-04 01:37:27,606 - api.client - ERROR - Invalid date or time format: unconverted data remains: .493045
+2025-02-04 01:37:27,864 - api.client - ERROR - Invalid date or time format: unconverted data remains: .735223
+2025-02-04 01:37:28,121 - api.client - ERROR - Invalid date or time format: unconverted data remains: .971673
+2025-02-04 01:37:28,363 - api.client - ERROR - Invalid date or time format: unconverted data remains: .235007
+2025-02-04 01:37:28,592 - api.client - ERROR - Invalid date or time format: unconverted data remains: .474090
+2025-02-04 01:37:28,852 - api.client - ERROR - Invalid date or time format: unconverted data remains: .733735
+2025-02-04 01:37:29,084 - api.client - ERROR - Invalid date or time format: unconverted data remains: .973730
+2025-02-04 01:37:29,314 - api.client - ERROR - Invalid date or time format: unconverted data remains: .196619
+2025-02-04 01:37:29,557 - api.client - ERROR - Invalid date or time format: unconverted data remains: .432588
+2025-02-04 01:40:49,858 - api.client - INFO - Successfully obtained new access token

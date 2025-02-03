@@ -4,12 +4,15 @@ import os
 from api.client import APIClient
 from models.model import face_recognition_model
 from utils.logger import get_logger
+from .attendance import OfflineHandler, AttendanceProcessor
 
 import numpy as np
 import cv2
 import json
 
 logger = get_logger(__name__,file_path="logs/scheduler.log")
+
+offline_handler = OfflineHandler(offline_storage_file="offline_data.json")
 
 class CourseScheduler:
     def __init__(self, api_client: APIClient, device_id: str):
@@ -19,6 +22,10 @@ class CourseScheduler:
         self.model_manager = face_recognition_model()
         self.models_dir = "course_models"
         self.label_map = None
+        self.attendance_processor = AttendanceProcessor(
+            offline_handler=offline_handler,
+            post_attendance_func=self.api_client.post_attendance
+        )
         
     def is_course_time(self, schedule_item: Dict) -> bool:
         current_time = datetime.now().time()
@@ -55,7 +62,7 @@ class CourseScheduler:
             logger.error("Failed to get schedule data or invalid format")
             return
 
-        current_day = datetime.now().strftime("%A")
+        current_day = datetime.now().strftime("%A").lower()
         
         # check each schedule in results
         for schedule in schedule_data['results']:
@@ -64,38 +71,39 @@ class CourseScheduler:
                 course_id = schedule['course']
 
                 if self.load_course_model(course_id):
-                    self.run_face_recognition(schedule['end_time'])
+                    print(schedule)
+                    self.run_face_recognition(end_time = schedule['end_time'], schedule_id = schedule['id'], course_id = course_id)
                     logger.info(f"Loaded and running model for course {course_id}")
                 break
 
-    def run_face_recognition(self, end_time: str) -> None:
+    def run_face_recognition(self, end_time: str, schedule_id, course_id: str = None) -> None:
         if self.current_model is None:
             logger.warning("No model currently loaded")
             return
 
+        # ล้าง sent_records เมื่อเริ่มรอบใหม่
+        self.attendance_processor.sent_records.clear()
+
         try:
             cap = cv2.VideoCapture(0)
-
             if not cap.isOpened():
-                print("ไม่สามารถเปิดกล้องได้")
+                logger.error("Cannot open camera.")
                 return
 
             while True:
                 ret, frame = cap.read()
-
                 if not ret:
-                    print("ไม่สามารถอ่านภาพจากกล้องได้")
+                    logger.error("Cannot read frame from camera.")
                     break
-                
-                result, predictions = self.model_manager.predict(frame)
 
+                result, predictions = self.model_manager.predict(frame)
                 if predictions is not None and len(predictions) > 0:
                     pred_index = np.argmax(predictions)
-
                     if self.label_map is not None and str(pred_index) in self.label_map:
                         predicted_label = self.label_map[str(pred_index)]
+                        self.attendance_processor.postprocess(self.label_map[str(pred_index)], course_id, schedule_id, self.device_id)
                     else:
-                        predicted_label = "Unknown" 
+                        predicted_label = "Unknown"
 
                     cv2.putText(result, f'Prediction: {predicted_label}', (10, 70),
                                 cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
@@ -104,10 +112,9 @@ class CourseScheduler:
                                 cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
 
                 cv2.imshow('Live Camera Feed', result)
-
                 if cv2.waitKey(1) & 0xFF == ord('q'):
                     break
-                
+
                 current_time = datetime.now().strftime('%H:%M:%S')
                 if current_time >= end_time:
                     logger.info("Reached end time. Closing camera.")
@@ -116,6 +123,8 @@ class CourseScheduler:
             cap.release()
             cv2.destroyAllWindows()
 
-            logger.info(f"Face recognition completed.")
+            # Sync offline data after finishing face recognition
+            offline_handler.sync_offline_data(post_attendance_func=self.api_client.post_attendance)
+            logger.info("Face recognition completed.")
         except Exception as e:
             logger.error(f"Error running face recognition: {str(e)}")

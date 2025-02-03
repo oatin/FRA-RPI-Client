@@ -46,37 +46,36 @@ class APIClient:
         try:
             if not self._ensure_valid_token():
                 return None
-                
-            # Add authorization header
+
             headers = kwargs.get('headers', {})
             headers['Authorization'] = f"Bearer {self.access_token}"
             kwargs['headers'] = headers
-            
-            # Add timeout if not specified
+
             if 'timeout' not in kwargs:
                 kwargs['timeout'] = Config.REQUEST_TIMEOUT
-            
+
             url = f"{self.base_url}{endpoint}"
-            
-            # Implement retries
+
             for attempt in range(Config.MAX_RETRIES):
                 try:
                     response = requests.request(method, url, **kwargs)
-                    
-                    # If token is invalid, try to get a new one and retry
+
                     if response.status_code == 401 and self._get_token():
                         kwargs['headers']['Authorization'] = f"Bearer {self.access_token}"
                         response = requests.request(method, url, **kwargs)
-                        
+
                     response.raise_for_status()
                     return response.json()
-                    
+
                 except requests.exceptions.RequestException as e:
-                    if attempt == Config.MAX_RETRIES - 1:  # Last attempt
+                    if attempt == Config.MAX_RETRIES - 1:
+                        # Log the error response
+                        if hasattr(e, 'response') and e.response is not None:
+                            logger.error(f"Error response: {e.response.text}")
                         raise
                     logger.warning(f"Request attempt {attempt + 1} failed: {str(e)}")
-                    time.sleep(2 ** attempt)  # Exponential backoff
-            
+                    time.sleep(2 ** attempt)
+
         except requests.exceptions.RequestException as e:
             logger.error(f"API request failed after {Config.MAX_RETRIES} attempts: {str(e)}")
             return None
@@ -86,6 +85,15 @@ class APIClient:
 
     def get_course(self, course_id: str) -> Optional[Dict]:
         return self._make_request('GET', f'/api/courses/{course_id}/')
+
+    def post_attendance(self, attendance_data: Dict) -> Optional[Dict]:
+        required_fields = ["schedule", "student", "course", "date", "time", "status", "device"]
+        for field in required_fields:
+            if field not in attendance_data:
+                logger.error(f"Missing required field: {field}")
+                return None
+
+        return self._make_request('POST', '/api/attendance/', json=attendance_data)
 
     def download_model(self, course_id: str, save_path: str) -> bool:
         try:
@@ -130,5 +138,5 @@ class APIClient:
             return True
             
         except Exception as e:
-            logger.error(f"Failed to download model: {str(e)}")
+            logger.error(f"Failed to download label_map: {str(e)}")
             return False

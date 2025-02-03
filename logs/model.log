@@ -84,3 +84,64 @@
 2025-01-27 00:53:03,298 - models.model - INFO - Successfully loaded model from course_models\model_8.keras
 2025-01-27 00:53:29,158 - models.model - INFO - Successfully loaded model from course_models\model_8.keras
 2025-01-27 00:55:27,242 - models.model - INFO - Successfully loaded model from course_models\model_8.keras
+2025-01-27 13:10:09,354 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-27 13:10:26,693 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-27 13:10:39,662 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-27 13:10:52,863 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-27 13:11:05,614 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-27 13:11:18,271 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-27 13:11:30,806 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-27 13:14:03,783 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-28 23:11:38,567 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-28 23:11:52,918 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-28 23:12:06,448 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-28 23:12:36,211 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-01-28 23:12:57,564 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 03:40:15,886 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 03:40:36,114 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 03:40:50,071 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 03:42:06,662 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 03:42:32,464 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 03:49:58,657 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 03:50:54,260 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 03:52:12,138 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 03:53:47,334 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 03:56:48,230 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 05:07:12,138 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 05:08:42,240 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 05:11:50,332 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 05:19:11,341 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 05:24:12,020 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 05:24:31,790 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 19:31:52,936 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:32:02,963 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:32:13,008 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:32:23,041 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:32:33,072 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:33:59,527 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:34:09,550 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:34:19,573 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:34:29,618 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:34:39,653 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:34:49,682 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:34:59,724 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:55:53,854 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:56:03,878 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:56:13,903 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:56:23,928 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 19:56:33,954 - models.model - ERROR - Error loading model: File not found: filepath=course_models\model_1.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-02-03 20:46:54,298 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 20:47:12,930 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 20:47:25,940 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 20:49:26,659 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 20:49:58,905 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 23:46:01,050 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-03 23:46:25,999 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-04 01:11:43,820 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-04 01:21:36,257 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-04 01:28:00,058 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-04 01:31:00,341 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-04 01:36:55,146 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-04 01:37:12,423 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-04 01:37:24,681 - models.model - INFO - Successfully loaded model from course_models\model_1.keras
+2025-02-04 01:41:31,089 - models.model - INFO - Successfully loaded model from course_models\model_1.keras

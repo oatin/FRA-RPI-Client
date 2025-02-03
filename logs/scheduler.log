@@ -330,3 +330,140 @@
 2025-01-27 00:53:18,570 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
 2025-01-27 00:56:05,137 - scheduler.course_scheduler - INFO - Face recognition completed.
 2025-01-27 00:56:05,142 - scheduler.course_scheduler - INFO - Loaded and running model for course 8
+2025-01-27 12:51:26,992 - scheduler.course_scheduler - ERROR - Failed to get schedule data or invalid format
+2025-01-27 12:51:50,200 - scheduler.course_scheduler - ERROR - Failed to get schedule data or invalid format
+2025-01-27 13:00:48,571 - scheduler.course_scheduler - ERROR - Failed to get schedule data or invalid format
+2025-01-27 13:01:13,798 - scheduler.course_scheduler - ERROR - Failed to get schedule data or invalid format
+2025-01-27 13:01:38,976 - scheduler.course_scheduler - ERROR - Failed to get schedule data or invalid format
+2025-01-27 13:02:04,195 - scheduler.course_scheduler - ERROR - Failed to get schedule data or invalid format
+2025-01-27 13:02:29,518 - scheduler.course_scheduler - ERROR - Failed to get schedule data or invalid format
+2025-01-27 13:02:54,785 - scheduler.course_scheduler - ERROR - Failed to get schedule data or invalid format
+2025-01-27 13:03:20,097 - scheduler.course_scheduler - ERROR - Failed to get schedule data or invalid format
+2025-01-27 13:03:40,293 - scheduler.course_scheduler - ERROR - Failed to get schedule data or invalid format
+2025-01-27 13:10:15,702 - scheduler.course_scheduler - ERROR - Error running face recognition: 'face_recognition_model' object has no attribute 'face_detector'
+2025-01-27 13:10:15,971 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-27 13:10:28,100 - scheduler.course_scheduler - ERROR - Error running face recognition: 'face_recognition_model' object has no attribute 'face_detector'
+2025-01-27 13:10:28,381 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-27 13:10:41,787 - scheduler.course_scheduler - ERROR - Error running face recognition: 'face_recognition_model' object has no attribute 'face_detector'
+2025-01-27 13:10:42,074 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-27 13:10:54,318 - scheduler.course_scheduler - ERROR - Error running face recognition: 'face_recognition_model' object has no attribute 'face_detector'
+2025-01-27 13:10:54,581 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-27 13:11:07,349 - scheduler.course_scheduler - ERROR - Error running face recognition: 'face_recognition_model' object has no attribute 'face_detector'
+2025-01-27 13:11:07,610 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-27 13:11:19,740 - scheduler.course_scheduler - ERROR - Error running face recognition: 'face_recognition_model' object has no attribute 'face_detector'
+2025-01-27 13:11:20,018 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-27 13:11:32,154 - scheduler.course_scheduler - ERROR - Error running face recognition: 'face_recognition_model' object has no attribute 'face_detector'
+2025-01-27 13:11:32,425 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-27 13:14:37,900 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-27 13:14:37,901 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-28 23:11:42,075 - scheduler.course_scheduler - ERROR - Error running face recognition: join() argument must be str, bytes, or os.PathLike object, not 'int'
+2025-01-28 23:11:42,355 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-28 23:11:55,065 - scheduler.course_scheduler - ERROR - Error running face recognition: join() argument must be str, bytes, or os.PathLike object, not 'int'
+2025-01-28 23:11:55,335 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-28 23:12:08,539 - scheduler.course_scheduler - ERROR - Error running face recognition: \Objects\listobject.c:337: bad argument to internal function
+2025-01-28 23:12:08,803 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-01-28 23:12:46,952 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-01-28 23:12:46,952 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 03:31:57,631 - scheduler.course_scheduler - INFO - friday
+2025-02-03 03:31:57,632 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:31:57,632 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:31:57,633 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:31:57,633 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:31:57,634 - scheduler.course_scheduler - INFO - wednesday
+2025-02-03 03:32:07,669 - scheduler.course_scheduler - INFO - friday
+2025-02-03 03:32:07,669 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:32:07,670 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:32:07,670 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:32:07,670 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:32:07,671 - scheduler.course_scheduler - INFO - wednesday
+2025-02-03 03:32:17,692 - scheduler.course_scheduler - INFO - friday
+2025-02-03 03:32:17,693 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:32:17,693 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:32:17,693 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:32:17,693 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:32:17,694 - scheduler.course_scheduler - INFO - wednesday
+2025-02-03 03:32:27,722 - scheduler.course_scheduler - INFO - friday
+2025-02-03 03:32:27,722 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:32:27,723 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:32:27,723 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:32:27,723 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:32:27,723 - scheduler.course_scheduler - INFO - wednesday
+2025-02-03 03:32:37,747 - scheduler.course_scheduler - INFO - friday
+2025-02-03 03:32:37,748 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:32:37,748 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:32:37,748 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:32:37,748 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:32:37,749 - scheduler.course_scheduler - INFO - wednesday
+2025-02-03 03:32:47,778 - scheduler.course_scheduler - INFO - friday
+2025-02-03 03:32:47,778 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:32:47,778 - scheduler.course_scheduler - INFO - monday
+2025-02-03 03:32:47,779 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:32:47,779 - scheduler.course_scheduler - INFO - thursday
+2025-02-03 03:32:47,779 - scheduler.course_scheduler - INFO - wednesday
+2025-02-03 03:33:42,245 - scheduler.course_scheduler - INFO - friday today:Monday
+2025-02-03 03:33:42,245 - scheduler.course_scheduler - INFO - monday today:Monday
+2025-02-03 03:33:42,246 - scheduler.course_scheduler - INFO - monday today:Monday
+2025-02-03 03:33:42,246 - scheduler.course_scheduler - INFO - thursday today:Monday
+2025-02-03 03:33:42,246 - scheduler.course_scheduler - INFO - thursday today:Monday
+2025-02-03 03:33:42,246 - scheduler.course_scheduler - INFO - wednesday today:Monday
+2025-02-03 03:33:52,264 - scheduler.course_scheduler - INFO - friday today:Monday
+2025-02-03 03:33:52,273 - scheduler.course_scheduler - INFO - monday today:Monday
+2025-02-03 03:33:52,274 - scheduler.course_scheduler - INFO - monday today:Monday
+2025-02-03 03:33:52,274 - scheduler.course_scheduler - INFO - thursday today:Monday
+2025-02-03 03:33:52,274 - scheduler.course_scheduler - INFO - thursday today:Monday
+2025-02-03 03:33:52,274 - scheduler.course_scheduler - INFO - wednesday today:Monday
+2025-02-03 03:34:02,302 - scheduler.course_scheduler - INFO - friday today:Monday
+2025-02-03 03:34:02,302 - scheduler.course_scheduler - INFO - monday today:Monday
+2025-02-03 03:34:02,303 - scheduler.course_scheduler - INFO - monday today:Monday
+2025-02-03 03:34:02,303 - scheduler.course_scheduler - INFO - thursday today:Monday
+2025-02-03 03:34:02,303 - scheduler.course_scheduler - INFO - thursday today:Monday
+2025-02-03 03:34:02,303 - scheduler.course_scheduler - INFO - wednesday today:Monday
+2025-02-03 03:34:12,335 - scheduler.course_scheduler - INFO - friday today:Monday
+2025-02-03 03:34:12,335 - scheduler.course_scheduler - INFO - monday today:Monday
+2025-02-03 03:34:12,336 - scheduler.course_scheduler - INFO - monday today:Monday
+2025-02-03 03:34:12,337 - scheduler.course_scheduler - INFO - thursday today:Monday
+2025-02-03 03:34:12,337 - scheduler.course_scheduler - INFO - thursday today:Monday
+2025-02-03 03:34:12,337 - scheduler.course_scheduler - INFO - wednesday today:Monday
+2025-02-03 03:40:24,955 - scheduler.course_scheduler - ERROR - Error running face recognition: 'list' object has no attribute 'ndim'
+2025-02-03 03:40:25,217 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 03:40:38,568 - scheduler.course_scheduler - ERROR - Error running face recognition: 'list' object has no attribute 'ndim'
+2025-02-03 03:40:38,834 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 03:42:21,638 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-02-03 03:42:21,906 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 03:43:04,994 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-02-03 03:43:04,995 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 03:50:43,387 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-02-03 03:50:43,655 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 03:52:24,525 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-02-03 03:52:24,525 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 03:56:37,356 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-02-03 03:56:37,627 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 03:57:25,628 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-02-03 03:57:25,628 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 05:10:10,045 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-02-03 05:10:10,046 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 05:12:28,139 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-02-03 05:12:28,140 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 05:24:20,978 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-02-03 05:24:21,246 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 20:47:01,811 - scheduler.course_scheduler - ERROR - Error running face recognition: Input 0 of layer "functional_1" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(32, 224, 3)
+2025-02-03 20:47:02,074 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 20:47:14,646 - scheduler.course_scheduler - ERROR - Error running face recognition: Input 0 of layer "functional_1" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(32, 224, 3)
+2025-02-03 20:47:14,906 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 20:47:27,794 - scheduler.course_scheduler - ERROR - Error running face recognition: Input 0 of layer "functional_1" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(32, 224, 3)
+2025-02-03 20:47:28,062 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 20:49:47,654 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-02-03 20:49:47,921 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-03 23:46:15,434 - scheduler.course_scheduler - INFO - Face recognition completed.
+2025-02-03 23:46:15,437 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-04 01:37:01,613 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-02-04 01:37:01,891 - scheduler.course_scheduler - INFO - Loaded and running model for course 1
+2025-02-04 01:37:13,891 - scheduler.course_scheduler - ERROR - Error running face recognition: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-02-04 01:37:14,154 - scheduler.course_scheduler - INFO - Loaded and running model for course 1

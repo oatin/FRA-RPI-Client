@@ -79,10 +79,10 @@ class face_recognition_model:
         
         predictions = []
         for face_img in face_images:
-            prediction = self.model.predict(face_img)
+            prediction = self.model.predict(face_img, verbose=0)
             predictions.append(prediction)
         
         return frame, predictions
     
-    def postprocess(self, prediction: Any) -> Any:
+    def postprocess(self, prediction, course_id) -> Any:
         return prediction
