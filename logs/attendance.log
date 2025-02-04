@@ -1,0 +1,746 @@
+2025-02-04 22:59:08,797 - scheduler.attendance - INFO - Reset sent_records for new course.
+2025-02-04 22:59:11,670 - scheduler.attendance - INFO - Data sent to API successfully.
+2025-02-04 22:59:11,838 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 22:59:11,977 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 22:59:12,099 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 22:59:12,222 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 22:59:12,341 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 22:59:12,453 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 22:59:12,569 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 22:59:12,683 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 22:59:12,793 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:33,342 - scheduler.attendance - INFO - Reset sent_records for new course.
+2025-02-04 23:05:37,045 - scheduler.attendance - INFO - Data sent to API successfully.
+2025-02-04 23:05:37,231 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:37,341 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:37,457 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:37,581 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:37,714 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:37,853 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:38,012 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:38,120 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:38,231 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:38,400 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:38,905 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:39,029 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:39,141 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:39,251 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:39,356 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:39,470 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:39,574 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:39,683 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:39,793 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:05:42,578 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:42,690 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:42,877 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:42,986 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:43,101 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:50,630 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:50,858 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:51,074 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:51,280 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:51,484 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:51,710 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:51,920 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:52,161 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:52,651 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:05:52,914 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:06,460 - scheduler.attendance - INFO - Reset sent_records for new course.
+2025-02-04 23:10:09,454 - scheduler.attendance - INFO - Data sent to API successfully.
+2025-02-04 23:10:09,600 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:09,709 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:09,811 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:09,932 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:10,053 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:10,196 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:10,321 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:10,445 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:10,569 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:10,697 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:10,820 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:10,940 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:11,050 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:11,161 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:11,271 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:11,381 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:11,501 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:11,625 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:11,749 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:11,873 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:12,001 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:12,121 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:12,238 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:12,350 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:12,459 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:12,571 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:12,681 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:12,794 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:12,909 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:13,021 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:13,130 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:13,233 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:13,348 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:13,464 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:13,576 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:13,694 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:13,805 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:13,910 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:14,019 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:14,133 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:14,239 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:10:14,341 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:14,441 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:14,550 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:14,652 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:14,763 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:14,870 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:14,991 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:15,100 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:15,211 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:15,311 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:15,421 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:15,522 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:15,637 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:15,750 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:15,851 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:15,960 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:16,070 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:16,180 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:16,291 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:16,391 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:16,500 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:16,611 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:16,722 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:16,851 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:16,972 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:17,091 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:17,201 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:17,304 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:17,401 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:10:17,511 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:15:49,591 - scheduler.attendance - INFO - Reset sent_records for new course.
+2025-02-04 23:15:52,331 - scheduler.attendance - INFO - Data sent to API successfully.
+2025-02-04 23:15:52,471 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:52,588 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:52,703 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:52,818 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:52,930 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:53,044 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:53,159 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:53,279 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:53,397 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:53,507 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:55,230 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:55,339 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:55,528 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:55,632 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:55,745 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:55,864 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:55,966 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:56,068 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:56,183 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:56,294 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:56,448 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:56,568 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:56,676 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:56,789 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:56,903 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:57,060 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:15:59,005 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:15:59,838 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:00,037 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:00,137 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:00,457 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:00,558 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:00,668 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:00,772 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:01,287 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:01,406 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:01,511 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:01,619 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:01,729 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:02,003 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:02,265 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:02,532 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:02,737 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:16:03,212 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:50,349 - scheduler.attendance - INFO - Reset sent_records for new course.
+2025-02-04 23:17:53,087 - scheduler.attendance - INFO - Data sent to API successfully.
+2025-02-04 23:17:53,088 - scheduler.attendance - INFO - Data saved offline.
+2025-02-04 23:17:53,224 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:53,343 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:53,443 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:53,565 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:53,681 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:53,791 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:53,911 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:54,030 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:54,173 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:54,316 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:54,458 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:54,577 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:54,698 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:54,806 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:54,916 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:55,032 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:55,156 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:55,297 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:55,412 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:55,536 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:55,661 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:55,775 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:55,893 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:56,006 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:56,124 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:56,233 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:56,339 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:56,451 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:56,563 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:56,673 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:56,777 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:56,891 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:57,001 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:57,111 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:57,229 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:57,324 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:57,450 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:57,563 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:57,680 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:57,791 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:57,902 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:17:58,016 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:58,131 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:58,249 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:58,361 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:58,471 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:58,582 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:58,689 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:58,800 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:58,908 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:59,012 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:59,111 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:59,241 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:59,353 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:59,459 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:59,556 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:59,673 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:59,791 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:17:59,900 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:00,043 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:00,146 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:00,262 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:00,367 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:00,482 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:00,605 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:00,721 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:00,846 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:00,966 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:01,097 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:01,223 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:01,348 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:01,480 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:01,598 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:01,708 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:01,834 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:01,949 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:02,068 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:02,178 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:02,300 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:02,425 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:02,541 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:02,666 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:02,770 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:02,902 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:03,026 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:03,151 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:03,269 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:03,377 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:03,486 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:03,597 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:03,700 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:03,804 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:03,906 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:04,015 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:04,640 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:04,742 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:04,849 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:04,947 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:05,053 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:05,151 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:05,269 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:05,375 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:05,477 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:05,586 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:05,691 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:05,799 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:05,918 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:06,030 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:06,148 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:06,266 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:06,387 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:06,502 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:06,606 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:06,720 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:06,830 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:06,964 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:07,075 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:07,190 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:07,302 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:07,411 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:07,521 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:07,631 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:07,736 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:07,842 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:07,954 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:08,051 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:08,161 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:08,271 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:08,381 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:08,493 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:08,596 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:08,705 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:08,811 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:08,918 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:09,021 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:09,134 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:09,241 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:09,350 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:09,462 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:09,569 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:09,673 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:09,773 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:09,897 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:10,001 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:10,113 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:10,217 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:10,323 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:10,436 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:10,541 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:10,650 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:10,756 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:10,862 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:10,967 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:11,082 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:11,188 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:11,294 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:11,404 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:11,520 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:11,620 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:11,728 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:11,838 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:11,942 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:12,052 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:12,156 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:12,261 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:12,371 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:12,475 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:12,589 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:12,716 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:12,820 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:12,926 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:13,041 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:13,142 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:13,249 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:13,370 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:13,471 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:13,576 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:13,680 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:13,790 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:13,900 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:14,009 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:14,116 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:14,224 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:14,329 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:14,442 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:14,542 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:14,648 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:14,754 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:14,866 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:14,968 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:15,078 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:15,183 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:15,292 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:15,406 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:15,508 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:15,612 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:15,723 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:15,843 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:15,947 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:16,070 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:16,180 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:16,290 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:16,393 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:16,496 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:16,597 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:16,719 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:16,819 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:16,948 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:17,052 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:17,159 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:17,263 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:17,371 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:17,475 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:17,578 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:17,687 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:17,790 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:17,918 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:18,028 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:18,130 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:18,239 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:18,352 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:18,454 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:18,559 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:18,668 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:18,779 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:18,882 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:18,987 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:19,101 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:19,204 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:19,315 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:19,409 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:19,530 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:19,640 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:19,750 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:19,854 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:19,995 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:20,088 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:20,208 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:20,308 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:20,428 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:20,554 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:20,664 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:20,769 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:20,884 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:20,986 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:21,096 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:21,205 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:21,315 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:21,412 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:21,521 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:21,627 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:21,734 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:21,841 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:21,953 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:22,057 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:22,157 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:22,261 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:22,373 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:22,483 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:22,589 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:22,694 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:22,804 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:22,917 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:23,027 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:23,138 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:23,244 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:23,350 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:23,455 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:23,563 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:23,673 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:23,783 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:23,898 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:23,997 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:24,102 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:24,202 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:24,322 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:24,431 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:24,541 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:24,646 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:24,757 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:24,859 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:24,970 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:25,075 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:25,181 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:25,311 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:25,412 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:25,524 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:25,626 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:25,734 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:25,843 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:25,952 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:26,052 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:26,159 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:26,269 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:26,376 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:26,486 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:26,596 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:26,700 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:26,810 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:26,915 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:27,023 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:27,134 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:27,237 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:27,346 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:27,462 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:27,562 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:27,672 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:27,779 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:27,889 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:27,998 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:28,108 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:28,228 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:28,344 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:28,446 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:28,576 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:28,682 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:28,784 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:28,891 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:29,001 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:29,104 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:29,212 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:29,323 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:29,428 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:29,532 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:29,642 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:29,747 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:29,851 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:29,965 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:30,072 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:30,200 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:30,312 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:30,428 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:30,537 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:30,642 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:30,745 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:30,854 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:30,967 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:31,067 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:31,174 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:31,281 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:31,390 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:31,499 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:31,605 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:31,710 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:31,818 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:31,923 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:32,032 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:32,145 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:32,249 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:32,357 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:32,464 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:32,574 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:32,686 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:32,796 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:32,901 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:33,010 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:33,115 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:33,223 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:33,328 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:33,438 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:33,548 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:33,653 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:33,759 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:33,872 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:33,975 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:34,083 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:34,189 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:34,298 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:34,402 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:34,528 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:34,638 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:34,744 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:34,853 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:34,961 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:35,064 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:35,179 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:35,284 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:35,394 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:35,498 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:35,603 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:35,729 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:35,831 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:35,935 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:36,044 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:36,165 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:36,265 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:36,377 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:36,480 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:36,591 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:36,695 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:36,807 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:36,910 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:37,025 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:37,129 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:37,235 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:37,345 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:37,451 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:37,562 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:37,667 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:37,779 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:37,886 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:37,991 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:38,099 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:38,210 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:38,303 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:38,425 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:38,533 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:38,646 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:38,750 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:38,855 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:38,964 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:39,073 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:39,176 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:39,284 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:39,392 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:39,494 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:39,604 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:39,708 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:39,817 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:39,931 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:40,050 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:40,158 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:40,268 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:40,390 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:40,505 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:40,616 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:40,707 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:40,810 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:40,919 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:41,022 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:41,132 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:41,249 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:41,362 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:41,469 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:41,578 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:41,686 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:41,790 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:41,900 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:42,009 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:42,116 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:42,221 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:42,337 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:42,446 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:42,550 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:42,661 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:42,765 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:42,876 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:42,988 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:43,090 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:43,193 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:43,303 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:43,409 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:43,512 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:43,622 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:43,726 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:43,842 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:43,947 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:44,056 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:44,165 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:44,269 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:44,390 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:18:44,494 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:28:52,251 - scheduler.attendance - INFO - Reset sent_records for new course.
+2025-02-04 23:28:55,033 - scheduler.attendance - INFO - Data sent to API successfully.
+2025-02-04 23:28:55,035 - scheduler.attendance - INFO - Data saved offline.
+2025-02-04 23:28:55,174 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:55,292 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:55,395 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:55,516 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:55,627 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:55,737 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:55,856 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:55,969 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:56,094 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:56,244 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:56,379 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:28:56,496 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:09,253 - scheduler.attendance - INFO - Reset sent_records for new course.
+2025-02-04 23:29:12,372 - scheduler.attendance - INFO - Data sent to API successfully.
+2025-02-04 23:29:12,373 - scheduler.attendance - INFO - Data saved offline.
+2025-02-04 23:29:12,616 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:12,822 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:12,993 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:13,143 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:13,316 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:13,489 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:13,652 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:13,831 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:14,000 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:14,193 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:14,366 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:14,608 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:14,838 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:15,110 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:15,369 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:15,617 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:15,872 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:16,130 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:16,373 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:16,605 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:16,857 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:17,099 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:29:17,320 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:17,496 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:17,670 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:17,828 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:18,001 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:18,154 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:18,325 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:18,510 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:18,686 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:18,848 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:19,008 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:19,179 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:19,337 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:19,511 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:19,667 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:19,824 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:20,014 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:20,182 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:20,337 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:20,555 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:20,802 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:21,026 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:21,589 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:29:21,810 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:11,037 - scheduler.attendance - INFO - Reset sent_records for new course.
+2025-02-04 23:30:25,823 - scheduler.attendance - INFO - Reset sent_records for new course.
+2025-02-04 23:30:28,687 - scheduler.attendance - INFO - Data sent to API successfully.
+2025-02-04 23:30:28,688 - scheduler.attendance - INFO - Data saved offline.
+2025-02-04 23:30:28,857 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:29,022 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:29,191 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:29,376 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:29,552 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:29,733 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:29,907 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:30,063 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:30,234 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:30,409 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:30,602 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:30,740 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:30,921 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:31,082 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:31,260 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:31,424 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:31,593 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:31,761 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:31,923 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:32,092 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:32,268 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:32,448 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:32,620 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:32,783 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:32,936 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:33,095 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:33,252 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:33,407 - scheduler.attendance - INFO - Throttling: Waiting to send data again.
+2025-02-04 23:30:33,582 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:33,738 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:33,838 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:33,953 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:34,054 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:34,170 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:34,280 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:34,385 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:34,492 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:34,597 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:34,705 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:34,824 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:34,945 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:35,059 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:35,192 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:35,332 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:35,451 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:35,581 - scheduler.attendance - INFO - Data already sent. Skipping.
+2025-02-04 23:30:48,820 - scheduler.attendance - INFO - Reset sent_records for new course.

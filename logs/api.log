@@ -305,3 +305,52 @@
 2025-02-04 01:37:29,314 - api.client - ERROR - Invalid date or time format: unconverted data remains: .196619
 2025-02-04 01:37:29,557 - api.client - ERROR - Invalid date or time format: unconverted data remains: .432588
 2025-02-04 01:40:49,858 - api.client - INFO - Successfully obtained new access token
+2025-02-04 15:18:04,417 - api.client - INFO - Successfully obtained new access token
+2025-02-04 15:23:04,385 - api.client - INFO - Successfully obtained new access token
+2025-02-04 15:23:09,755 - api.client - INFO - Successfully obtained new access token
+2025-02-04 15:28:05,635 - api.client - INFO - Successfully obtained new access token
+2025-02-04 15:28:54,411 - api.client - INFO - Successfully obtained new access token
+2025-02-04 15:59:12,230 - api.client - INFO - Successfully obtained new access token
+2025-02-04 16:00:44,625 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:11:47,040 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:13:16,498 - api.client - WARNING - Request attempt 1 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F17B7A0FB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-04 22:13:21,848 - api.client - WARNING - Request attempt 2 failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/Schedule/?device_id=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F17B7CCA70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-04 22:13:51,421 - api.client - ERROR - Failed to get access token: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/token/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001476A38BEF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-04 22:14:19,018 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:16:51,917 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:22:35,357 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:23:56,178 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:25:02,219 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:32:06,237 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:42:22,215 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:42:44,169 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:45,195 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:47,213 - api.client - ERROR - Error response: {"student":["Invalid pk \"0\" - object does not exist."]}
+2025-02-04 22:42:47,213 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:47,644 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:48,672 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:50,688 - api.client - ERROR - Error response: {"student":["Invalid pk \"0\" - object does not exist."]}
+2025-02-04 22:42:50,689 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:50,951 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:51,970 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:53,991 - api.client - ERROR - Error response: {"student":["Invalid pk \"0\" - object does not exist."]}
+2025-02-04 22:42:53,991 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:54,263 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:55,293 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:57,311 - api.client - ERROR - Error response: {"student":["Invalid pk \"0\" - object does not exist."]}
+2025-02-04 22:42:57,312 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:57,680 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:42:58,710 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-04 22:45:43,084 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:46:40,403 - api.client - INFO - Successfully obtained new access token
+2025-02-04 22:58:50,942 - api.client - INFO - Successfully obtained new access token
+2025-02-04 23:04:15,815 - api.client - INFO - Successfully obtained new access token
+2025-02-04 23:09:49,444 - api.client - INFO - Successfully obtained new access token
+2025-02-04 23:15:30,841 - api.client - INFO - Successfully obtained new access token
+2025-02-04 23:17:33,325 - api.client - INFO - Successfully obtained new access token
+2025-02-04 23:27:07,255 - api.client - INFO - Successfully obtained new access token
+2025-02-04 23:27:14,715 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download/4
+2025-02-04 23:27:17,045 - api.client - ERROR - Failed to download label_map: 404 Client Error: Not Found for url: http://localhost:8001/download_label_map/4
+2025-02-04 23:27:19,836 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download/4
+2025-02-04 23:27:22,405 - api.client - ERROR - Failed to download label_map: 404 Client Error: Not Found for url: http://localhost:8001/download_label_map/4
+2025-02-04 23:28:24,998 - api.client - INFO - Successfully obtained new access token

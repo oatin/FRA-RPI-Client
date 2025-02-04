@@ -83,6 +83,3 @@ class face_recognition_model:
             predictions.append(prediction)
         
         return frame, predictions
-    
-    def postprocess(self, prediction, course_id) -> Any:
-        return prediction

@@ -4,6 +4,7 @@ from api.client import APIClient
 from scheduler.course_scheduler import CourseScheduler
 from utils.logger import get_logger
 from config import Config
+import argparse
 
 logger = get_logger(__name__,file_path="logs/app.log")
 
@@ -37,5 +38,9 @@ class FaceRecognitionService:
                 time.sleep(Config.CHECK_INTERVAL)
 
 if __name__ == "__main__":
-    service = FaceRecognitionService(device_id="1")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--device_id", required=True, help="Specify the device ID")
+    args = parser.parse_args()
+
+    service = FaceRecognitionService(device_id=args.device_id)
     service.start()

@@ -12,8 +12,6 @@ import json
 
 logger = get_logger(__name__,file_path="logs/scheduler.log")
 
-offline_handler = OfflineHandler(offline_storage_file="offline_data.json")
-
 class CourseScheduler:
     def __init__(self, api_client: APIClient, device_id: str):
         self.api_client = api_client
@@ -22,8 +20,9 @@ class CourseScheduler:
         self.model_manager = face_recognition_model()
         self.models_dir = "course_models"
         self.label_map = None
+        self.offline_handler = OfflineHandler(offline_storage_file=f"logs/attendance/data_{datetime.now().date().isoformat()}.json")
         self.attendance_processor = AttendanceProcessor(
-            offline_handler=offline_handler,
+            offline_handler=self.offline_handler,
             post_attendance_func=self.api_client.post_attendance
         )
         
@@ -76,13 +75,12 @@ class CourseScheduler:
                     logger.info(f"Loaded and running model for course {course_id}")
                 break
 
-    def run_face_recognition(self, end_time: str, schedule_id, course_id: str = None) -> None:
+    def run_face_recognition(self, end_time: str, schedule_id: int, course_id: int = None) -> None:
         if self.current_model is None:
             logger.warning("No model currently loaded")
             return
 
-        # ล้าง sent_records เมื่อเริ่มรอบใหม่
-        self.attendance_processor.sent_records.clear()
+        self.attendance_processor.reset_sent_records()
 
         try:
             cap = cv2.VideoCapture(0)
@@ -101,7 +99,7 @@ class CourseScheduler:
                     pred_index = np.argmax(predictions)
                     if self.label_map is not None and str(pred_index) in self.label_map:
                         predicted_label = self.label_map[str(pred_index)]
-                        self.attendance_processor.postprocess(self.label_map[str(pred_index)], course_id, schedule_id, self.device_id)
+                        self.attendance_processor.postprocess(predicted_label, course_id, schedule_id, self.device_id)
                     else:
                         predicted_label = "Unknown"
 
@@ -123,8 +121,7 @@ class CourseScheduler:
             cap.release()
             cv2.destroyAllWindows()
 
-            # Sync offline data after finishing face recognition
-            offline_handler.sync_offline_data(post_attendance_func=self.api_client.post_attendance)
+            self.offline_handler.sync_offline_data(post_attendance_func=self.post_attendance)
             logger.info("Face recognition completed.")
         except Exception as e:
             logger.error(f"Error running face recognition: {str(e)}")
