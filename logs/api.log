@@ -354,3 +354,79 @@
 2025-02-04 23:27:19,836 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download/4
 2025-02-04 23:27:22,405 - api.client - ERROR - Failed to download label_map: 404 Client Error: Not Found for url: http://localhost:8001/download_label_map/4
 2025-02-04 23:28:24,998 - api.client - INFO - Successfully obtained new access token
+2025-02-05 02:31:32,688 - api.client - INFO - Successfully obtained new access token
+2025-02-05 02:33:11,359 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-05 02:33:12,403 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-05 02:33:14,423 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-05 02:33:14,423 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-05 02:33:14,719 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-05 02:33:15,748 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-05 02:33:17,773 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-05 02:33:17,773 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-05 02:33:18,063 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-05 02:33:19,098 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-05 02:33:21,117 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-05 02:33:21,119 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-05 02:34:12,476 - api.client - INFO - Successfully obtained new access token
+2025-02-05 02:40:55,018 - api.client - INFO - Successfully obtained new access token
+2025-02-05 02:44:30,584 - api.client - INFO - Successfully obtained new access token
+2025-02-05 02:46:31,978 - api.client - INFO - Successfully obtained new access token
+2025-02-05 02:50:20,086 - api.client - INFO - Successfully obtained new access token
+2025-02-05 03:36:30,442 - api.client - INFO - Successfully obtained new access token
+2025-02-05 03:38:44,987 - api.client - INFO - Successfully obtained new access token
+2025-02-05 14:46:28,663 - api.client - INFO - Successfully obtained new access token
+2025-02-05 15:10:59,333 - api.client - INFO - Successfully obtained new access token
+2025-02-05 15:11:03,406 - api.client - ERROR - Failed to download model: 404 Client Error: Not Found for url: http://localhost:8001/download/5
+2025-02-05 15:11:07,268 - api.client - ERROR - Failed to download label_map: 404 Client Error: Not Found for url: http://localhost:8001/download_label_map/5
+2025-02-05 15:11:29,298 - api.client - INFO - Successfully obtained new access token
+2025-02-06 02:40:38,113 - api.client - INFO - Successfully obtained new access token
+2025-02-06 02:41:43,159 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:44,181 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:46,217 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-06 02:41:46,218 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:46,524 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:47,553 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:49,593 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-06 02:41:49,593 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:51,373 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:52,391 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:54,432 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-06 02:41:54,432 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:54,758 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:55,779 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:57,821 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-06 02:41:57,821 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:58,146 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:41:59,176 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:01,206 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-06 02:42:01,209 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:33,183 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:34,214 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:36,252 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-06 02:42:36,252 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:36,550 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:37,581 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:39,613 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-06 02:42:39,614 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:39,955 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:40,987 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:43,019 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-06 02:42:43,020 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:43,325 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:44,353 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:46,389 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-06 02:42:46,389 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:46,687 - api.client - WARNING - Request attempt 1 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:47,727 - api.client - WARNING - Request attempt 2 failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:42:49,749 - api.client - ERROR - Error response: {"student":["Incorrect type. Expected pk value, received str."]}
+2025-02-06 02:42:49,749 - api.client - ERROR - API request failed after 3 attempts: 400 Client Error: Bad Request for url: http://localhost:8000/api/attendance/
+2025-02-06 02:44:26,447 - api.client - INFO - Successfully obtained new access token
+2025-02-06 02:57:29,437 - api.client - INFO - Successfully obtained new access token
+2025-02-06 02:59:16,408 - api.client - INFO - Successfully obtained new access token
+2025-02-06 03:01:17,899 - api.client - INFO - Successfully obtained new access token
+2025-02-06 03:04:59,359 - api.client - INFO - Successfully obtained new access token
+2025-02-06 03:12:14,195 - api.client - INFO - Successfully obtained new access token
+2025-02-06 03:13:00,400 - api.client - INFO - Successfully obtained new access token
+2025-02-06 03:19:24,520 - api.client - INFO - Successfully obtained new access token
+2025-02-06 03:22:48,392 - api.client - INFO - Successfully obtained new access token
+2025-02-06 03:25:43,962 - api.client - INFO - Successfully obtained new access token

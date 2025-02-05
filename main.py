@@ -6,7 +6,7 @@ from utils.logger import get_logger
 from config import Config
 import argparse
 
-logger = get_logger(__name__,file_path="logs/app.log")
+logger = get_logger(__name__, file_path="logs/app.log")
 
 class FaceRecognitionService:
     def __init__(self, device_id: str):
@@ -15,20 +15,24 @@ class FaceRecognitionService:
         
     def start(self) -> None:
         logger.info("Starting Face Recognition Service...")
-        
+
         schedule_data = self.scheduler.get_all_schedule()
 
-        if "results" in schedule_data:
+        if schedule_data is None:
+            logger.error("Failed to fetch schedule data. Retrying later...")
+        elif "results" in schedule_data:
             for entry in schedule_data["results"]:
                 course_id = entry.get("course") 
                 if course_id:
-                    self.api_client.download_model(str(course_id), f"course_models/model_{course_id}.keras")
-                    self.api_client.map_model(str(course_id), f"course_models/model_{course_id}.json")
+                    model_success = self.api_client.download_model(str(course_id), f"course_models/model_{course_id}.keras")
+                    label_success = self.api_client.map_model(str(course_id), f"course_models/label_map_{course_id}.json")
 
-        schedule.every(Config.CHECK_INTERVAL).seconds.do(
-            self.scheduler.check_and_update_model
-        )
-        
+                    if not model_success or not label_success:
+                        logger.error(f"Failed to download model or label map for course {course_id}")
+                        continue  # ข้าม course นี้ไป
+
+        schedule.every(Config.CHECK_INTERVAL).seconds.do(self.scheduler.check_and_update_model)
+
         while True:
             try:
                 schedule.run_pending()
@@ -36,6 +40,7 @@ class FaceRecognitionService:
             except Exception as e:
                 logger.error(f"Error in main loop: {str(e)}")
                 time.sleep(Config.CHECK_INTERVAL)
+                continue  #
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
