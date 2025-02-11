@@ -23,13 +23,15 @@ class FaceRecognitionService:
         elif "results" in schedule_data:
             for entry in schedule_data["results"]:
                 course_id = entry.get("course") 
-                if course_id:
+                if course_id and self.scheduler.check_model_update(course_id):
                     model_success = self.api_client.download_model(str(course_id), f"course_models/model_{course_id}.keras")
                     label_success = self.api_client.map_model(str(course_id), f"course_models/label_map_{course_id}.json")
 
-                    if not model_success or not label_success:
+                    if model_success and label_success:
+                        with open(f"course_models/model_{course_id}.version", "w") as f:
+                            f.write(str(self.api_client.get_model_version(str(course_id))))
+                    else:
                         logger.error(f"Failed to download model or label map for course {course_id}")
-                        continue  # ข้าม course นี้ไป
 
         schedule.every(Config.CHECK_INTERVAL).seconds.do(self.scheduler.check_and_update_model)
 
@@ -40,7 +42,7 @@ class FaceRecognitionService:
             except Exception as e:
                 logger.error(f"Error in main loop: {str(e)}")
                 time.sleep(Config.CHECK_INTERVAL)
-                continue  #
+                continue  
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

@@ -72,13 +72,40 @@ class CourseScheduler:
             return False
 
         return self.current_model is not None
+    
+    def check_model_update(self, course_id: int) -> bool:
+        model_path = os.path.join(self.models_dir, f"model_{course_id}.keras")
+        version_path = os.path.join(self.models_dir, f"model_{course_id}.version")
+
+        if not os.path.exists(model_path):
+            return True
+
+        latest_version = self.api_client.get_model_version(str(course_id))
+        if latest_version is None:
+            logger.warning(f"Cannot fetch model version for course {course_id}. Skipping update check.")
+            return False 
+
+        if os.path.exists(version_path):
+            with open(version_path, "r") as f:
+                current_version = int(f.read().strip())
+
+            if current_version == latest_version:
+                logger.info(f"Model for course {course_id} is up-to-date (version {current_version}). Skipping download.")
+                return False  
+            else:
+                logger.info(f"Model update required for course {course_id}. Current: {current_version}, New: {latest_version}")
+        else:
+            logger.info(f"No local version file for course {course_id}. Downloading new model.")
+
+        return True 
+
 
     def run_face_recognition(self, end_time: str, schedule_id: int, course_id: int) -> None:
         if self.current_model is None:
             logger.warning("No model currently loaded")
             return
 
-        self.checked_students.clear()  # รีเซ็ตเมื่อเริ่มคลาสใหม่
+        self.checked_students.clear()  # check if start new course
         cap = cv2.VideoCapture(0)
 
         if not cap.isOpened():

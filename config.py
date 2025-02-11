@@ -14,7 +14,7 @@ class Config:
     
     # JWT Configuration
     TOKEN_ENDPOINT: str = '/api/token/'
-    TOKEN_EXPIRY_MINUTES: int = 55  # Set to 5 minutes less than actual expiry
+    TOKEN_EXPIRY_MINUTES: int = 55 
     
     # Path Configuration
     MODELS_DIR: str = os.getenv('MODELS_DIR')

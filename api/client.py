@@ -85,6 +85,14 @@ class APIClient:
 
     def get_course(self, course_id: str) -> Optional[Dict]:
         return self._make_request('GET', f'/api/courses/{course_id}/')
+    
+    def get_model_version(self, course_id: str) -> Optional[int]:
+        response = self._make_request('GET', f"/api/FaceModel/", params={"course_id": course_id})
+
+        if response and "results" in response and response["results"]:
+            return response["results"][0].get("model_version", None)
+        
+        return None  
 
     def post_attendance(self, attendance_data: Dict) -> Optional[Dict]:
         required_fields = ["schedule", "student", "course", "date", "time", "status", "device"]
