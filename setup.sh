@@ -62,7 +62,7 @@ After=network.target
 WorkingDirectory=$PROJECT_DIR
 ExecStart=$PYTHON_EXEC $MAIN_SCRIPT --device_id=\$(cat $PROJECT_DIR/.env | grep DEVICE_ID | cut -d '=' -f2)
 Restart=always
-User=admin
+User=root
 Environment='PYTHONUNBUFFERED=1'
 
 [Install]
@@ -76,6 +76,6 @@ sudo systemctl enable "$SERVICE_NAME"
 sudo systemctl start "$SERVICE_NAME"
 
 #  แจ้งเตือนสำเร็จ
-echo -e "${GREEN}Setup สำเร็จ! Face Recognition Service พร้อมใช้งานแล้ว 🚀${NC}"
+echo -e "${GREEN}Setup สำเร็จ! Face Recognition Service พร้อมใช้งานแล้ว ${NC}"
 echo -e "${YELLOW}ใช้คำสั่งเพื่อตรวจสอบสถานะ:${NC}"
 echo -e "${GREEN}sudo systemctl status $SERVICE_NAME${NC}"
