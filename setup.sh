@@ -30,7 +30,7 @@ chmod 755 "$PROJECT_DIR/logs/app.log"
 #  อัปเดตแพ็กเกจและติดตั้ง dependencies
 echo -e "${YELLOW}กำลังติดตั้งแพ็กเกจที่จำเป็น...${NC}"
 sudo apt-get update -y
-sudo apt-get install -y python3 python3-venv python3-pip libopencv-dev
+sudo apt-get install -y python3 python3-venv python3-pip libopencv-dev cmake
 
 #  สร้าง Virtual Environment และติดตั้งไลบรารี
 echo -e "${YELLOW}กำลังสร้าง Virtual Environment...${NC}"
